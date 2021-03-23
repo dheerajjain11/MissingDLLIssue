@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "md6xbsyiJ6m1j7Xb9nHFYJrG+jBeI0MHJZizZmradq0pZqj+2BqiIZq236M0XXKJ8wLuTzZT0afQTTG0pkX7mA==",
+  "success": true,
+  "projectFilePath": "C:\\StackOverflow\\MetaNumericsTest\\MetaNumericsSuccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t0244246\\.nuget\\packages\\meta.numerics\\4.1.4\\meta.numerics.4.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

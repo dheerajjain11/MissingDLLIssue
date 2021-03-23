@@ -1,0 +1,10 @@
+C:\Learning\MetaNumericsTest\bin\Debug\MetaNumericsTest.exe.config
+C:\Learning\MetaNumericsTest\bin\Debug\MetaNumericsTest.exe
+C:\Learning\MetaNumericsTest\bin\Debug\MetaNumericsTest.pdb
+C:\Learning\MetaNumericsTest\bin\Debug\MetaNumerics.dll
+C:\Learning\MetaNumericsTest\bin\Debug\MetaNumerics.pdb
+C:\Learning\MetaNumericsTest\obj\Debug\MetaNumericsTest.csprojAssemblyReference.cache
+C:\Learning\MetaNumericsTest\obj\Debug\MetaNumericsTest.csproj.CoreCompileInputs.cache
+C:\Learning\MetaNumericsTest\obj\Debug\MetaNumericsTest.csproj.CopyComplete
+C:\Learning\MetaNumericsTest\obj\Debug\MetaNumericsTest.exe
+C:\Learning\MetaNumericsTest\obj\Debug\MetaNumericsTest.pdb

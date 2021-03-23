@@ -1,0 +1,8 @@
+C:\Learning\MetaNumerics\bin\Debug\netstandard2.0\MetaNumerics.deps.json
+C:\Learning\MetaNumerics\bin\Debug\netstandard2.0\MetaNumerics.dll
+C:\Learning\MetaNumerics\bin\Debug\netstandard2.0\MetaNumerics.pdb
+C:\Learning\MetaNumerics\obj\Debug\netstandard2.0\MetaNumerics.AssemblyInfoInputs.cache
+C:\Learning\MetaNumerics\obj\Debug\netstandard2.0\MetaNumerics.AssemblyInfo.cs
+C:\Learning\MetaNumerics\obj\Debug\netstandard2.0\MetaNumerics.csproj.CoreCompileInputs.cache
+C:\Learning\MetaNumerics\obj\Debug\netstandard2.0\MetaNumerics.dll
+C:\Learning\MetaNumerics\obj\Debug\netstandard2.0\MetaNumerics.pdb

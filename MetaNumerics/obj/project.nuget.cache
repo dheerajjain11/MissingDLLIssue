@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2sD0+oYyikqBweWwMgc27NU+PmCWNYzLAmIeGFVpKozEsI44e7j00TIOFm4HdIIhbUv9ZWK3MnatorlDk0OEKw==",
+  "success": true,
+  "projectFilePath": "C:\\StackOverflow\\MetaNumerics\\MetaNumerics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t0244246\\.nuget\\packages\\meta.numerics\\4.1.4\\meta.numerics.4.1.4.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

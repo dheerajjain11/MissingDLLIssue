@@ -1,0 +1,17 @@
+C:\Learning\MetaCore\bin\Debug\netcoreapp3.1\MetaCore.exe
+C:\Learning\MetaCore\bin\Debug\netcoreapp3.1\MetaCore.deps.json
+C:\Learning\MetaCore\bin\Debug\netcoreapp3.1\MetaCore.runtimeconfig.json
+C:\Learning\MetaCore\bin\Debug\netcoreapp3.1\MetaCore.runtimeconfig.dev.json
+C:\Learning\MetaCore\bin\Debug\netcoreapp3.1\MetaCore.dll
+C:\Learning\MetaCore\bin\Debug\netcoreapp3.1\MetaCore.pdb
+C:\Learning\MetaCore\bin\Debug\netcoreapp3.1\Meta.Numerics.dll
+C:\Learning\MetaCore\bin\Debug\netcoreapp3.1\MetaNumerics.dll
+C:\Learning\MetaCore\bin\Debug\netcoreapp3.1\MetaNumerics.pdb
+C:\Learning\MetaCore\obj\Debug\netcoreapp3.1\MetaCore.csprojAssemblyReference.cache
+C:\Learning\MetaCore\obj\Debug\netcoreapp3.1\MetaCore.AssemblyInfoInputs.cache
+C:\Learning\MetaCore\obj\Debug\netcoreapp3.1\MetaCore.AssemblyInfo.cs
+C:\Learning\MetaCore\obj\Debug\netcoreapp3.1\MetaCore.csproj.CoreCompileInputs.cache
+C:\Learning\MetaCore\obj\Debug\netcoreapp3.1\MetaCore.csproj.CopyComplete
+C:\Learning\MetaCore\obj\Debug\netcoreapp3.1\MetaCore.dll
+C:\Learning\MetaCore\obj\Debug\netcoreapp3.1\MetaCore.pdb
+C:\Learning\MetaCore\obj\Debug\netcoreapp3.1\MetaCore.genruntimeconfig.cache
